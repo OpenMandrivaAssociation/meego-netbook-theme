@@ -7,6 +7,11 @@ License: LGPL v2.1
 URL: https://www.meego.com
 Source0: http://repo.meego.com/MeeGo/releases/1.1/netbook/repos/source/%{name}-%{version}.tar.gz
 Requires: gnome-settings-daemon
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: libgtk+2-devel
 Obsoletes: moblin-gtk-engine <= 1.0.2
 
