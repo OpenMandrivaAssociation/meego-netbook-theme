@@ -1,7 +1,7 @@
 Name: meego-netbook-theme
 Summary: MeeGo Netbook Theme
 Version: 0.1
-Release: %mkrel 1
+Release: 2
 Group: System/Desktop
 License: LGPL v2.1
 URL: https://www.meego.com
